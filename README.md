@@ -8,7 +8,7 @@ I am Full Stack MERN developer
 
 *   🌍  I'm based in Da Nang City
 *   🖥️  See my portfolio at [My Portfolio](https://my-portfolio-long-hoang.netlify.app/)
-*   ✉️  You can contact me at [longhoang21112002@gmail.com](mailto:longkai21112002@gmail.com)
+*   ✉️  You can contact me at [longkai21112002@gmail.com](mailto:longkai21112002@gmail.com)
 *   🧠  I'm learning focus on algorithm and data structure
 *   🤝  I'm open to collaborating on working project
   
