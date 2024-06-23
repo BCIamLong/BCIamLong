@@ -1,4 +1,4 @@
-Hi there 👋 my name is Long Hoang Nguyen
+Hi there 👋 My name is Long Hoang Nguyen
 ==================================================================================================================================
 
 Full Stack Developer
@@ -12,7 +12,7 @@ I am a passionate Full Stack MERN Web Developer is eager to contribute to team s
 *   🧠  I'm learning focus on algorithm and data structure
 *   🤝  I'm open to collaborating on working project
   
-### 💻 Skills 
+## ⚡ Skills 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](#)
 [![Typescript](https://img.shields.io/badge/-Typescript-%231572B6?style=for-the-badge&logo=typescript&logoColor=000000)](#)
@@ -28,7 +28,7 @@ I am a passionate Full Stack MERN Web Developer is eager to contribute to team s
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)](#)
                     
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github)](https://github.com/BCIamLong)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-111827?style=for-the-badge&logo=codesandbox&logoColor=f9fafb&color=262626)](https://codesandbox.io/u/hoalanh21112002)
