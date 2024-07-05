@@ -6,7 +6,7 @@
 	<br/>
 	  <br/>
 	<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4F46E5&background=58FF4A00&center=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Long+Hoang+Nguyen;%F0%9F%94%A5+A+passionate+Full+Stack+Developer;Motivated+to+learn%2C+grow+%F0%9F%92%AA;Eager+to+contribute+to+team+success+%F0%9F%A4%9D;From+Vietnam.+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&pause=1000&color=4F46E5&background=58FF4A00&center=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Long+Hoang+Nguyen;%F0%9F%94%A5+A+passionate+Full+Stack+Developer;Motivated+to+learn%2C+grow+%F0%9F%92%AA;Eager+to+contribute+to+team+success+%F0%9F%A4%9D;From+Vietnam.+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
 	</p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=BCIamLong&color=green&style=flat-square" alt="BCIamLong" /> </p></p>
