@@ -47,7 +47,7 @@ I am a passionate Full Stack MERN Web Developer is eager to contribute to team s
 <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite"></a>
 </div>
 
-<br/>
+
 
 ## 🌐 Let's Connect
 
