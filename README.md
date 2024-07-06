@@ -14,7 +14,7 @@
 	src="https://i.ibb.co/2ssF0C8/ok123.gif"> -->
 
 <p align="center"> 
-   <img align="right" alt="Coding" width="340" src="https://i.ibb.co/2ssF0C8/ok123.gif">
+   <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCIamLong&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
 </p>
 
 I am a passionate Full Stack MERN Web Developer is eager to contribute to team success. Motivated to learn, grow, and excel in the Software Industry.
@@ -34,26 +34,28 @@ I am a passionate Full Stack MERN Web Developer is eager to contribute to team s
 
 ## ⚡ Skills 
 <br/>
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Typescript-%231572B6?style=for-the-badge&logo=typescript&logoColor=000000" alt="Typescript"></a>
-<a href="#"><img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5"></a>
-<a href="#"><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"></a>
-<a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff" alt="React"></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS"></a>
-<a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff" alt="Styled Components"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" alt="Nodejs"></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&express&logoColor=ffffff" alt="Expressjs"></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB"></a>
-<a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=ffffff" alt="Microsoft SQL Server"></a>
-<a href="#"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=ffffff" alt="Supabase"></a>
-<a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite"></a>
+<div align="left">
+	<div>
+<a href="#"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Typescript-%231572B6?style=badge&logo=typescript&logoColor=000000" alt="Typescript"></a>
+<a href="#"><img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=badge&logo=html5&logoColor=ffffff" alt="HTML5"></a>
+<a href="#"><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=badge&logo=css3&logoColor=ffffff" alt="CSS3"></a>
+<a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=badge&logo=react&logoColor=ffffff" alt="React"></a>
+<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=badge&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS"></a>	
+<a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=badge&logo=styled-components&logoColor=ffffff" alt="Styled Components"></a>
+</div>
+<a href="#"><img src="https://img.shields.io/badge/-Nodejs-339933?style=badge&logo=Node.js&logoColor=ffffff" alt="Nodejs"></a>
+<a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=badge&express&logoColor=ffffff" alt="Expressjs"></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=badge&logo=mongodb&logoColor=ffffff" alt="MongoDB"></a>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=badge&logo=microsoft%20sql%20server&logoColor=ffffff" alt="Microsoft SQL Server"></a>
+<a href="#"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=badge&logo=supabase&logoColor=ffffff" alt="Supabase"></a>
+<a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=badge&logo=vite&logoColor=ffffff" alt="Vite"></a>
 </div>
 
 ## 🌐 Let's Connect
 
 <br/>
-<div align="center">
+<div align="left">
   <a href="https://github.com/BCIamLong">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github" alt="GitHub">
 </a>
