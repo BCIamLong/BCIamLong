@@ -16,7 +16,8 @@
 <img align="right" alt="Coding" width="340" style="border-radius:20px;"
 	src="https://i.ibb.co/2ssF0C8/ok123.gif"/>
  <div>
-I am a passionate Full Stack MERN Web Developer is eager to contribute to team success. Motivated to learn, grow, and excel in the Software Industry.
+<p>I am a passionate Full Stack MERN Web Developer is eager to contribute to team success. Motivated to learn, grow, and excel in the Software Industry.</p>
+
 
 *   🌍  I'm based in Da Nang City
 *   🖥️  See my portfolio at [My Portfolio](https://my-portfolio-long-hoang.netlify.app/)
