@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 My name is Long Hoang Nguyen</h1>
 <!-- ================================================================================================================================== -->
-
 <h2 align="center">
   Full Stack Developer
 	<br/>
@@ -8,31 +7,32 @@
 	<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&pause=1000&color=4F46E5&background=58FF4A00&center=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Long+Hoang+Nguyen;%F0%9F%94%A5+A+passionate+Full+Stack+Developer;Motivated+to+learn%2C+grow+%F0%9F%92%AA;Eager+to+contribute+to+team+success+%F0%9F%A4%9D;From+Vietnam.+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
 	</p>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=BCIamLong&color=green&style=flat-square" alt="BCIamLong" /> </p></p>
 </h2>
 <!-- -------------------- -->
+<!-- <img align="right" alt="Coding" width="340" style="border-radius:20px;"
+	src="https://i.ibb.co/2ssF0C8/ok123.gif"> -->
 
-<img align="right" alt="Coding" width="340" style="border-radius:20px;"
-	src="https://i.ibb.co/2ssF0C8/ok123.gif"/>
- <div>
-<p>I am a passionate Full Stack MERN Web Developer is eager to contribute to team success. Motivated to learn, grow, and excel in the Software Industry.</p>
+<p align="center"> 
+   <img align="right" alt="Coding" width="340" src="https://i.ibb.co/2ssF0C8/ok123.gif">
+</p>
 
+I am a passionate Full Stack MERN Web Developer is eager to contribute to team success. Motivated to learn, grow, and excel in the Software Industry.
 
-*   🌍  I'm based in Da Nang City
-*   🖥️  See my portfolio at [My Portfolio](https://my-portfolio-long-hoang.netlify.app/)
-*   ✉️  You can contact me at [longkai21112002@gmail.com](mailto:longkai21112002@gmail.com)
-*   🧠  I'm learning focus on algorithm and data structure
-*   🤝  I'm open to collaborating on working project
-</div>
-
+-   🌍  I'm based in Da Nang City
+  
+-   🖥️  See my portfolio at [My Portfolio](https://my-portfolio-long-hoang.netlify.app/)
+  
+-   ✉️  You can contact me at [longkai21112002@gmail.com](mailto:longkai21112002@gmail.com)
+  
+-   🧠  I'm learning focus on algorithm and data structure
+  
+-   🤝  I'm open to collaborating on working project
 
 ##
 
-<br/>
 
 ## ⚡ Skills 
-
 <br/>
 <div align="center">
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript"></a>
@@ -50,8 +50,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite"></a>
 </div>
 
-
-
 ## 🌐 Let's Connect
 
 <br/>
@@ -63,6 +61,5 @@
     <img src="https://img.shields.io/badge/CodeSandbox-111827?style=for-the-badge&logo=codesandbox&logoColor=f9fafb&color=262626" alt="CodeSandbox">
 </a>
 </div>
-<br/>
-                  
 
+<br/>
