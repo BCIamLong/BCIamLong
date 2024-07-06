@@ -14,8 +14,8 @@
 <!-- -------------------- -->
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://i.ibb.co/2ssF0C8/ok123.gif">
- 
+	src="https://i.ibb.co/2ssF0C8/ok123.gif"/>
+ <div>
 I am a passionate Full Stack MERN Web Developer is eager to contribute to team success. Motivated to learn, grow, and excel in the Software Industry.
 
 *   🌍  I'm based in Da Nang City
@@ -23,7 +23,7 @@ I am a passionate Full Stack MERN Web Developer is eager to contribute to team s
 *   ✉️  You can contact me at [longkai21112002@gmail.com](mailto:longkai21112002@gmail.com)
 *   🧠  I'm learning focus on algorithm and data structure
 *   🤝  I'm open to collaborating on working project
-
+</div>
 
 
 ##
