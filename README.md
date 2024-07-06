@@ -20,13 +20,9 @@
 I am a passionate Full Stack MERN Web Developer is eager to contribute to team success. Motivated to learn, grow, and excel in the Software Industry.
 
 -   🌍  I'm based in Da Nang City
-  
 -   🖥️  See my portfolio at [My Portfolio](https://my-portfolio-long-hoang.netlify.app/)
-  
 -   ✉️  You can contact me at [longkai21112002@gmail.com](mailto:longkai21112002@gmail.com)
-  
 -   🧠  I'm learning focus on algorithm and data structure
-  
 -   🤝  I'm open to collaborating on working project
 
 ##
