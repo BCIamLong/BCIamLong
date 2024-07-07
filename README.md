@@ -29,7 +29,7 @@ I am a passionate Full Stack MERN Web Developer is eager to contribute to team s
 
 
 ## ⚡ Skills 
-<br/>
+
 <div align="left">
 	<div>
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript"></a>
@@ -48,9 +48,11 @@ I am a passionate Full Stack MERN Web Developer is eager to contribute to team s
 <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=badge&logo=vite&logoColor=ffffff" alt="Vite"></a>
 </div>
 
+
+
 ## 🌐 Let's Connect
 
-<br/>
+
 <div align="left">
   <a href="https://github.com/BCIamLong">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github" alt="GitHub">
